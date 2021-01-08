@@ -1,0 +1,11 @@
+{
+	"token": "token del bot",
+	"servers": [
+		"id del servidor",
+		"id del servidor"
+	],
+	"roleName": "nombre del rol que quieres que cambie de colores",
+	"colors": 24,
+	"speed": 60000, 
+	"logging": true
+}

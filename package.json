@@ -1,0 +1,16 @@
+{
+  "name": "RainbowRole",
+  "version": "1.0.0",
+  "description": "Conseguir un rol de Arcoiris con un Bot de Discord **usando Discord.JS**",
+  "main": "RainbowRole.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node RainbowRole.js"
+  },
+  "keywords": [],
+  "author": "Socola13",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
